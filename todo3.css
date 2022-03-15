@@ -1,0 +1,130 @@
+.section{
+    margin: auto;
+    display: block;
+    width: 70vw;
+}
+
+.box{
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+    margin: 30px;
+    display: inline-block; 
+    justify-content: space-between;
+    color: red;
+    border-radius: 5px;
+    text-align: center;
+    border: 2px solid red;
+}
+
+.box1{
+    color: red;
+}
+
+.box a{
+    text-decoration: none;
+    color: red;
+}
+
+.horizontal{
+    margin: 0px 0px 0px 29px;
+}
+
+.packet{
+    margin-left: 10px;
+    color: red;
+    text-decoration: line-through;
+}
+
+.box2{
+    color:red;
+}
+
+.horizontal2{
+    margin: 0px 0px 0px 29px;
+}
+
+#pending{
+    color: black;
+    font-size: 20px;
+}
+
+form{
+    color: black;
+    font-size: 20px;
+}
+
+.packet2{
+    margin-left: 10px;
+    color: red;
+    text-decoration: line-through;
+}
+
+.box3{
+    color: red;
+}
+
+.horizontal3{
+    margin: 0px 0px 0px 29px;
+}
+
+.packet3{
+    margin-left: 10px;
+    color: red;
+    text-decoration: line-through;
+}
+
+.addlist{
+    /* margin-top: -500px; */
+    /* margin-left: 1090px; */
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    filter: blur(5px);
+}
+
+.addlist a{
+    text-decoration:none ;
+}
+
+.text{
+    font-size: 30px;
+}
+
+.text a{
+    text-decoration: none;
+}
+
+.popup{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: -300px;
+    border: 5px solid red;
+    display: block;
+    padding: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.title{
+    margin-left: 40px;
+    color: red;
+}
+
+.mobile{
+    color: red;
+}
+
+.add{
+    margin-left: 60px;
+    color: red;
+    border-radius: 20px;
+    border: 7px solid red;
+}    
+
+.text{
+    position: relative;
+    filter: blur(5px);
+}

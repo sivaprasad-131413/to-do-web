@@ -1,0 +1,60 @@
+.box{
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    margin: 50px;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid red;
+    margin-left: 500px;
+}
+
+.text{
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.text a{
+    text-decoration: none;
+}
+
+.box1{
+    color: red;
+}
+
+form{
+    color: black;
+    font-size: 20px;
+}
+
+.horizontal{
+    margin: 0px 0px 0px 29px;
+}
+
+.packet{
+    margin-left: 10px;
+    color: red;
+    text-decoration: line-through;
+}
+
+.line{
+    margin-left: 500px;
+}
+
+.addlist{
+    margin-top: 50px;
+    margin-left: 550px;
+}
+
+.icon{
+    margin-top: 110px;
+    margin-left: 210px;
+    color: blueviolet;
+}
+
+/* .book{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+} */
